@@ -1,0 +1,17 @@
+{
+  "plc_address": "192.168.0.219",
+  "plc_slot": "0",
+  "broker_address":"192.168.0.250",
+  "broker_port": 1883,
+  "poll_time": 300,
+  "control_topic": "logixMQTTgateway/control",
+  "status_topic": "logixMQTTgateway/status",
+  "tags": [
+    {
+      "tag_name": "Flasher05"
+    },
+    {
+      "tag_name": "Flasher10"
+    }
+  ]
+}
