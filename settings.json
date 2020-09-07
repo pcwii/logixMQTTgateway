@@ -8,10 +8,13 @@
   "status_topic": "logixMQTTgateway/status",
   "tags": [
     {
-      "tag_name": "Flasher05"
+      "name": "Flasher05"
     },
     {
-      "tag_name": "Flasher10"
+      "name": "Flasher10"
+    },
+    {
+      "name": "TestTag"
     }
   ]
 }
