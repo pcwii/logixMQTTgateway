@@ -2,7 +2,7 @@
 Utilize the lightweight MQTT protocol to interface with Rockwell ControlLogix™ PLC's.
 
 ## About
-This program will permit the reading and writing of tag data to a Rockwell ControLogix™ PLC. 
+This program will permit the reading and writing of tag data to/from a Rockwell ControLogix™ PLC. 
 Configuration is done in the settings.json file.
 This program will enable any MQTT enabled device to communicate directly with a PLC.
 
