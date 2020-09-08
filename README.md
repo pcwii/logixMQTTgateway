@@ -1,5 +1,5 @@
 ![Logo](logixMQTTgateway/images/layout.png)
-# <img src='/images/gateway.png' width='50' height='50' style='vertical-align:bottom'/> logixMQTTgateway
+# <img src='/images/layout.png' width='50' height='50' style='vertical-align:bottom'/> logixMQTTgateway
 Utilize the lightweight MQTT protocol to interface with Rockwell ControlLogix™ PLC's.
 
 ## About
