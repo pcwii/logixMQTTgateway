@@ -28,7 +28,7 @@ pcwii
 - [pycomm3](https://github.com/ottowayi/pycomm3).
 
 ## Warnings!!
-- It is not recommended to use a public MQTT broker at this time as this could expose your commands to other Mycroft Units, or other devices subscribing to your topic.
+- It is not recommended to use a public MQTT broker at this time as this could expose your commands to other devices subscribing to your topic.
  
 
 
